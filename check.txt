@@ -1,0 +1,6 @@
+This code was run in order to check the position of the body part in the game 
+
+def check_click(x, y):
+    print(x, y)
+screen.onscreenclick(check_click)
+turtle.mainloop()
